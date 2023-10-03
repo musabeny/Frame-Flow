@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">frameFlow</string>
+
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="info">Info</string>
+    <string name="subscription">Subscription</string>
+    <string name="New">NEW</string>
+    <string name="free">FREE</string>
+
+    <string name="private_policy">Private Policy</string>
+
+    <string name="terms_of_use">Terms of use</string>
+    <string name="version">Version XXX</string>
+    <string name="language">Language</string>
+
+    <string name="appearance">Appearance</string>
+
+    <string name="company_email">info@fogosoft.co.uk</string>
+    <string name="fogosoft_ltd">FOGOSOFT Ltd.</string>
+
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="german">German</string>
+    <string name="french">French</string>
+    <string name="russian">Russian</string>
+    <string name="turkish">Turkish</string>
+
+
+    <string name="newProject">New</string>
+    <string name="albums">Albums</string>
+    <string name="draft">Draft</string>
+    <string name="screenShoots">Screenshots</string>
+</resources>
